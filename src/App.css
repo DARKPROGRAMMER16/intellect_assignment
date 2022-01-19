@@ -1,0 +1,56 @@
+.welcome_section{
+  height: 35vh;
+  background-color: #f3c6bd;
+  background-image: url(./images/bg_img.svg);
+  background-size: 100% 100%;
+  border-radius: 1rem;
+  border: 2px solid #e4a598;
+}
+.wl-btn{
+  margin-top: 4.5rem;
+  border-radius: 2rem;
+  padding: 0.5rem 1.5rem;
+  color: #fff;
+  background-color: #e4a598;
+  font-size: 1.3rem;
+}
+.wl-name{
+  font-weight: 700;
+  color: rgb(0, 0, 75);
+}
+.wl-heading{
+  font-weight:300;
+  color: rgb(0, 0, 75);
+}
+
+.info-card{
+  height: 55vh;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 1rem 0;
+}
+
+.create{
+  background-image:url('./images/wave-haikei.png');
+  background-size: 100% 100%;
+  height: 10vh;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-card{
+  background-color: #fff;
+  border-radius: 1rem;
+}
+
+.li-it{
+  padding: 1rem 1rem 0 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.mra{
+  margin-top: .2rem !important;
+}
